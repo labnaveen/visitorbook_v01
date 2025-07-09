@@ -1,0 +1,66 @@
+2025-07-03 02:56:24 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 02:56:24 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 02:56:24 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 02:56:24 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 02:56:28 -04:00: (node:56387) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 02:56:28 -04:00: (node:56387) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 02:57:46 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 02:57:46 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 02:57:46 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 02:57:46 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 02:57:50 -04:00: (node:56440) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 02:57:51 -04:00: (node:56440) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 02:58:35 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 02:58:35 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 02:58:35 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 02:58:35 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 02:58:40 -04:00: (node:56453) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 02:58:40 -04:00: (node:56453) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 02:59:47 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 02:59:47 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 02:59:47 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 02:59:47 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 02:59:51 -04:00: (node:56477) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 02:59:51 -04:00: (node:56477) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 03:00:22 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 03:00:22 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 03:00:22 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 03:00:22 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 03:00:26 -04:00: (node:56536) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 03:00:26 -04:00: (node:56536) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 03:00:47 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 03:00:47 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 03:00:47 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 03:00:47 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 03:00:51 -04:00: (node:56568) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 03:00:51 -04:00: (node:56568) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil

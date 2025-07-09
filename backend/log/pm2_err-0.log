@@ -1,0 +1,1097 @@
+2025-04-09 04:12:01 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-09 04:12:01 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-09 04:12:01 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-09 04:12:01 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-09 04:12:02 +00:00: (node:1542019) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-09 04:12:02 +00:00: (node:1542019) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-09 05:24:24 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-09 05:24:24 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-09 05:24:24 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-09 05:24:24 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-09 05:24:25 +00:00: (node:1550425) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-09 05:24:25 +00:00: (node:1550425) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-09 05:32:03 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-09 05:32:03 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-09 05:32:03 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-09 05:32:03 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-09 05:32:04 +00:00: (node:1551488) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-09 05:32:04 +00:00: (node:1551488) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-09 05:34:28 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-09 05:34:28 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-09 05:34:28 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-09 05:34:28 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-09 05:34:28 +00:00: (node:1551602) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-09 05:34:28 +00:00: (node:1551602) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-09 05:37:40 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-09 05:37:40 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-09 05:37:40 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-09 05:37:40 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-09 05:37:41 +00:00: (node:1552014) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-09 05:37:41 +00:00: (node:1552014) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-09 05:38:07 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-09 05:38:07 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-09 05:38:07 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-09 05:38:07 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-09 05:38:08 +00:00: (node:1552058) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-09 05:38:08 +00:00: (node:1552058) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-09 05:48:06 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-09 05:48:06 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-09 05:48:06 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-09 05:48:06 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-09 05:48:07 +00:00: (node:1553140) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-09 05:48:07 +00:00: (node:1553140) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-09 05:49:46 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-09 05:49:46 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-09 05:49:46 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-09 05:49:46 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-09 05:49:46 +00:00: (node:1553378) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-09 05:49:46 +00:00: (node:1553378) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-09 05:50:05 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-09 05:50:05 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-09 05:50:05 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-09 05:50:05 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-09 05:50:06 +00:00: (node:1553543) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-09 05:50:06 +00:00: (node:1553543) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-09 05:51:45 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-09 05:51:45 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-09 05:51:45 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-09 05:51:45 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-09 05:51:46 +00:00: (node:1553731) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-09 05:51:46 +00:00: (node:1553731) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-09 13:30:34 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Wed, 09 Apr 2025 13:30:34 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-04-09 13:30:34 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Wed, 09 Apr 2025 13:30:34 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-04-09 13:30:43 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Wed, 09 Apr 2025 13:30:43 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-04-09 13:45:12 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Wed, 09 Apr 2025 13:45:12 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-04-09 13:45:22 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Wed, 09 Apr 2025 13:45:22 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-04-09 13:45:23 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Wed, 09 Apr 2025 13:45:23 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-04-09 14:11:27 +00:00: Error: Invalid file type
+    at fileFilter (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/middlewares/imagesUploader.js:57:24)
+    at Multipart.<anonymous> (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/multer/lib/make-middleware.js:109:7)
+    at Multipart.emit (node:events:524:28)
+    at Multipart.emit (node:domain:489:12)
+    at HeaderParser.cb (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:358:14)
+    at HeaderParser.push (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:394:37)
+    at feed (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/streamsearch/lib/sbmh.js:219:14)
+    at SBMH.push (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/streamsearch/lib/sbmh.js:104:16)
+    at Multipart._write (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:567:19)
+2025-04-09 14:13:23 +00:00: Error: Invalid file type
+    at fileFilter (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/middlewares/imagesUploader.js:57:24)
+    at Multipart.<anonymous> (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/multer/lib/make-middleware.js:109:7)
+    at Multipart.emit (node:events:524:28)
+    at Multipart.emit (node:domain:489:12)
+    at HeaderParser.cb (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:358:14)
+    at HeaderParser.push (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:394:37)
+    at feed (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/streamsearch/lib/sbmh.js:219:14)
+    at SBMH.push (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/streamsearch/lib/sbmh.js:104:16)
+    at Multipart._write (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:567:19)
+2025-04-09 14:23:52 +00:00: Error: Invalid file type
+    at fileFilter (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/middlewares/imagesUploader.js:57:24)
+    at Multipart.<anonymous> (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/multer/lib/make-middleware.js:109:7)
+    at Multipart.emit (node:events:524:28)
+    at Multipart.emit (node:domain:489:12)
+    at HeaderParser.cb (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:358:14)
+    at HeaderParser.push (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:394:37)
+    at feed (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/streamsearch/lib/sbmh.js:219:14)
+    at SBMH.push (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/streamsearch/lib/sbmh.js:104:16)
+    at Multipart._write (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/busboy/lib/types/multipart.js:567:19)
+2025-04-10 08:24:11 +00:00: Error line number: 52
+2025-04-10 08:24:11 +00:00: Error occurred in file: [
+  '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/sequelize/lib/dialects/mysql/query.js'
+]
+2025-04-10 08:24:11 +00:00: Error writing to log file: [Error: ENOENT: no such file or directory, open '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'
+}
+2025-04-10 08:24:15 +00:00: Error line number: 52
+2025-04-10 08:24:15 +00:00: Error occurred in file: [
+  '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/sequelize/lib/dialects/mysql/query.js'
+]
+2025-04-10 08:24:15 +00:00: Error writing to log file: [Error: ENOENT: no such file or directory, open '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'
+}
+2025-04-10 08:24:28 +00:00: Error line number: 52
+2025-04-10 08:24:28 +00:00: Error occurred in file: [
+  '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/sequelize/lib/dialects/mysql/query.js'
+]
+2025-04-10 08:24:28 +00:00: Error writing to log file: [Error: ENOENT: no such file or directory, open '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'
+}
+2025-04-11 06:23:54 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-11 06:23:54 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-11 06:23:54 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-11 06:23:54 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-11 06:23:55 +00:00: (node:157971) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-11 06:23:55 +00:00: (node:157971) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-17 11:12:10 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-17 11:12:10 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-17 11:12:10 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-17 11:12:10 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-17 11:12:12 +00:00: (node:70115) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-17 11:12:12 +00:00: (node:70115) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-17 18:06:34 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-17 18:06:34 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-17 18:06:34 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-17 18:06:34 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-17 18:06:35 +00:00: (node:48474) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-17 18:06:35 +00:00: (node:48474) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-21 09:57:14 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-21 09:57:14 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-21 09:57:14 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-21 09:57:14 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-21 09:57:15 +00:00: (node:248673) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-21 09:57:15 +00:00: (node:248673) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-21 10:01:21 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-21 10:01:21 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-21 10:01:21 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-21 10:01:21 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-21 10:01:22 +00:00: (node:272381) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-21 10:01:22 +00:00: (node:272381) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-21 11:02:51 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-21 11:02:51 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-21 11:02:51 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-21 11:02:51 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-21 11:02:52 +00:00: (node:117097) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-21 11:02:52 +00:00: (node:117097) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-23 07:51:59 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Wed, 23 Apr 2025 07:51:59 GMT',
+      'content-type': 'application/json',
+      'content-length': '204',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-04-23 07:52:00 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Wed, 23 Apr 2025 07:51:59 GMT',
+      'content-type': 'application/json',
+      'content-length': '204',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-04-23 07:52:03 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Wed, 23 Apr 2025 07:52:03 GMT',
+      'content-type': 'application/json',
+      'content-length': '204',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-04-23 10:01:21 +00:00: Error line number: 52
+2025-04-23 10:01:21 +00:00: Error occurred in file: [
+  '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/sequelize/lib/dialects/mysql/query.js'
+]
+2025-04-23 10:01:21 +00:00: Error writing to log file: [Error: ENOENT: no such file or directory, open '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'
+}
+2025-04-23 12:51:57 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-23 12:51:57 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-23 12:51:57 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-23 12:51:57 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-23 12:51:58 +00:00: (node:685658) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-23 12:51:58 +00:00: (node:685658) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-23 12:52:24 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-23 12:52:24 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-23 12:52:24 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-23 12:52:24 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-23 12:52:25 +00:00: (node:685745) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-23 12:52:25 +00:00: (node:685745) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-30 12:37:57 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-30 12:37:57 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-30 12:37:57 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-30 12:37:57 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-30 12:37:58 +00:00: (node:1919279) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-30 12:37:58 +00:00: (node:1919279) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-04-30 12:38:17 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-04-30 12:38:17 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-04-30 12:38:17 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-04-30 12:38:17 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-04-30 12:38:18 +00:00: (node:1919333) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-04-30 12:38:18 +00:00: (node:1919333) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-05-15 10:58:15 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-05-15 10:58:15 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-05-15 10:58:15 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-05-15 10:58:15 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-05-15 10:58:17 +00:00: (node:78144) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-05-15 10:58:17 +00:00: (node:78144) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-05-21 08:54:13 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-05-21 08:54:13 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-05-21 08:54:13 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-05-21 08:54:13 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-05-21 08:54:15 +00:00: (node:2892185) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-05-21 08:54:15 +00:00: (node:2892185) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: ENOENT: no such file or directory, access 'uploads/blogs_images'
+    at async Object.access (node:internal/fs/promises:606:10)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-05-21 08:55:12 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-05-21 08:55:12 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-05-21 08:55:12 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-05-21 08:55:12 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-05-21 08:55:13 +00:00: (node:2892795) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-05-21 08:55:13 +00:00: (node:2892795) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-05-30 05:53:55 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Fri, 30 May 2025 05:53:55 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-05-30 05:53:59 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Fri, 30 May 2025 05:53:59 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-05-30 05:54:15 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Fri, 30 May 2025 05:54:15 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-05-30 05:54:19 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Fri, 30 May 2025 05:54:19 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-05-30 05:54:25 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Fri, 30 May 2025 05:54:25 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-05-30 05:54:28 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Fri, 30 May 2025 05:54:28 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-05-30 05:57:46 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Fri, 30 May 2025 05:57:46 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-05-30 05:57:59 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Fri, 30 May 2025 05:57:59 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-05-30 06:03:02 +00:00: Error sending email: ResponseError: Bad Request
+    at node_modules/@sendgrid/client/src/classes/client.js:167:29
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 400,
+  response: {
+    headers: Object [AxiosHeaders] {
+      server: 'nginx',
+      date: 'Fri, 30 May 2025 06:03:02 GMT',
+      'content-type': 'application/json',
+      'content-length': '288',
+      connection: 'keep-alive',
+      'access-control-allow-origin': 'https://sendgrid.api-docs.io',
+      'access-control-allow-methods': 'POST',
+      'access-control-allow-headers': 'Authorization, Content-Type, On-behalf-of, x-sg-elas-acl',
+      'access-control-max-age': '600',
+      'x-no-cors-reason': 'https://sendgrid.com/docs/Classroom/Basics/API/cors.html',
+      'strict-transport-security': 'max-age=31536000; includeSubDomains',
+      'content-security-policy': "frame-ancestors 'none'",
+      'cache-control': 'no-cache',
+      'x-content-type-options': 'no-sniff',
+      'referrer-policy': 'strict-origin-when-cross-origin'
+    },
+    body: { errors: [Array] }
+  }
+}
+2025-05-30 06:38:37 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:698:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 06:39:29 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:698:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 06:55:47 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:698:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 06:55:56 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:698:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 07:11:36 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-05-30 07:11:36 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-05-30 07:11:36 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-05-30 07:11:36 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-05-30 07:11:38 +00:00: (node:3461813) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-05-30 07:11:38 +00:00: (node:3461813) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-05-30 07:26:11 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-05-30 07:26:11 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-05-30 07:26:11 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-05-30 07:26:11 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-05-30 07:26:12 +00:00: (node:3466869) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-05-30 07:26:12 +00:00: (node:3466869) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-05-30 07:54:28 +00:00: Error line number: 52
+2025-05-30 07:54:28 +00:00: Error occurred in file: [
+  '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/sequelize/lib/dialects/mysql/query.js'
+]
+2025-05-30 07:54:29 +00:00: Error writing to log file: [Error: ENOENT: no such file or directory, open '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'
+}
+2025-05-30 07:54:35 +00:00: Error line number: 52
+2025-05-30 07:54:35 +00:00: Error occurred in file: [
+  '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/sequelize/lib/dialects/mysql/query.js'
+]
+2025-05-30 07:54:35 +00:00: Error writing to log file: [Error: ENOENT: no such file or directory, open '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'
+}
+2025-05-30 07:54:46 +00:00: Error line number: 52
+2025-05-30 07:54:46 +00:00: Error occurred in file: [
+  '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/sequelize/lib/dialects/mysql/query.js'
+]
+2025-05-30 07:54:46 +00:00: Error writing to log file: [Error: ENOENT: no such file or directory, open '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/logs/app.log'
+}
+2025-05-30 07:56:48 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:700:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 08:18:01 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:700:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 08:18:05 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:700:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 08:23:44 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:700:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 08:25:23 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:700:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 08:26:59 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:700:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 08:27:43 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:700:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 08:30:07 +00:00: Error line number: 538
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read properties of undefined (reading 'split')
+    at ErrorLogsCreator.writeLog (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/helpers/ErrorLogsCreator.js:9:66)
+    at addNewCompanies (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/controllers/adminController.js:700:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-30 08:38:40 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-05-30 08:38:40 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-05-30 08:38:40 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-05-30 08:38:40 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-05-30 08:38:41 +00:00: (node:3489845) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-05-30 08:38:41 +00:00: (node:3489845) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-05-30 08:39:04 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-05-30 08:39:04 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-05-30 08:39:04 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-05-30 08:39:04 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-05-30 08:39:05 +00:00: (node:3490005) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-05-30 08:39:05 +00:00: (node:3490005) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-06-04 01:45:27 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-06-04 01:45:27 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-06-04 01:45:27 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-06-04 01:45:27 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-06-04 01:45:28 +00:00: (node:13222) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-06-04 01:45:28 +00:00: (node:13222) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-06-25 10:22:02 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-06-25 10:22:02 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-06-25 10:22:02 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-06-25 10:22:02 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-06-25 10:22:03 +00:00: (node:1586648) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-06-25 10:22:03 +00:00: (node:1586648) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-06-25 10:22:56 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-06-25 10:22:56 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-06-25 10:22:56 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-06-25 10:22:56 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-06-25 10:22:57 +00:00: (node:1586917) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-06-25 10:22:57 +00:00: (node:1586917) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-06-25 10:32:02 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-06-25 10:32:02 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-06-25 10:32:02 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-06-25 10:32:02 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-06-25 10:32:02 +00:00: (node:1589623) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-06-25 10:32:02 +00:00: (node:1589623) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-06-25 10:33:59 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-06-25 10:33:59 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-06-25 10:33:59 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-06-25 10:33:59 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-06-25 10:34:00 +00:00: (node:1590285) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-06-25 10:34:00 +00:00: (node:1590285) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-06-25 10:46:21 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-06-25 10:46:21 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-06-25 10:46:21 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-06-25 10:46:21 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-06-25 10:46:22 +00:00: (node:1594827) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-06-25 10:46:22 +00:00: (node:1594827) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-06-25 10:46:31 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-06-25 10:46:31 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-06-25 10:46:31 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-06-25 10:46:31 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-06-25 10:46:32 +00:00: (node:1594880) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-06-25 10:46:32 +00:00: (node:1594880) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-06-25 10:59:43 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-06-25 10:59:43 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-06-25 10:59:43 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-06-25 10:59:43 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-06-25 10:59:44 +00:00: (node:1600385) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-06-25 10:59:44 +00:00: (node:1600385) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-06-25 11:00:52 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-06-25 11:00:52 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-06-25 11:00:52 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-06-25 11:00:52 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-06-25 11:00:53 +00:00: (node:1600975) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-06-25 11:00:53 +00:00: (node:1600975) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+RangeError: WebAssembly.instantiate(): Out of memory: Cannot allocate Wasm memory for new instance
+    at lazyllhttp (node:internal/deps/undici/undici:5829:32)
+2025-06-27 08:42:58 +00:00: Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: %s%, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/moment/moment.js:324:25)
+    at configFromString (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/moment/moment.js:2613:19)
+    at configFromInput (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/moment/moment.js:3056:13)
+    at prepareConfig (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/moment/moment.js:3039:13)
+    at createFromConfig (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/moment/moment.js:3006:44)
+    at createLocalOrUTC (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/moment/moment.js:3100:16)
+    at createLocal (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/moment/moment.js:3104:16)
+    at hooks (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/moment/moment.js:16:29)
+    at DATE._applyTimezone (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/sequelize/lib/data-types.js:336:21)
+    at DATE._stringify (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/sequelize/lib/dialects/mysql/data-types.js:47:21)
+2025-07-03 01:14:25 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 01:14:25 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 01:14:25 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-07-03 01:14:25 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 01:14:32 +00:00: (node:884882) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 01:14:32 +00:00: (node:884882) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil

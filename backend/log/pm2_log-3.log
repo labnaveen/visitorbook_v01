@@ -1,0 +1,27 @@
+2025-07-03 03:07:22 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:07:29 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:07:37 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:07:44 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:07:53 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:08:02 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:08:11 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:08:20 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:08:29 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:08:32 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:08:36 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:08:45 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:08:50 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:08:55 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 03:08:56 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 03:08:56 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 03:08:56 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 03:08:56 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 03:09:01 -04:00: (node:56894) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 03:09:01 -04:00: (node:56894) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 03:09:01 -04:00: 🚀 Server running at https://localhost:5000
+2025-07-03 03:09:01 -04:00: MYSQL --> Connection to DB has been established successfully.

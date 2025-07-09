@@ -1,0 +1,53 @@
+const { Sequelize } = require("sequelize");
+const sequelize = require("../config/db.config").sequelize;
+const CompanyCheckInDetails = sequelize.define(
+    "CompanyCheckInDetails",
+    {
+        id: {
+            allowNull: false,
+            autoIncrement: true,
+            primaryKey: true,
+            type: Sequelize.INTEGER,
+        },
+        company_id: {
+            type: Sequelize.INTEGER,
+            allowNull: false,
+            references: {
+                model: "companies",
+                key: "id",
+            },
+        },
+        check_in_email: {
+            type: Sequelize.STRING,
+            allowNull: false,
+        },
+        check_in_password: {
+            type: Sequelize.STRING,
+            allowNull: false,
+        },
+        created_at: {
+            allowNull: true,
+            type: Sequelize.DATE,
+        },
+        deleted_at: {
+            allowNull: true,
+            type: Sequelize.DATE,
+        },
+        updated_at: {
+            allowNull: true,
+            type: Sequelize.DATE,
+        },
+    },
+    {
+        tableName: "company_check_in_details", // Specify the table name
+        timestamps: true, // Enable timestamps (createdAt, updatedAt)
+        paranoid: false, // Enable soft deletion (deletedAt)
+        deletedAt: "deleted_at", // If you want to give a custom name to the deletedAt column
+        createdAt: "created_at", // If you want to give a custom name to the createdAt column
+        updatedAt: "updated_at", // If you want to give a custom name to the updatedAt column
+        underscored: true, // Use underscored naming convention for columns
+    }
+);
+// Define associations here
+
+module.exports = CompanyCheckInDetails;

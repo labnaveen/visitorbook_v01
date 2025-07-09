@@ -1,0 +1,556 @@
+2025-07-01 04:16:02 +00:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-01 04:16:02 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-01 04:16:02 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-01 04:16:02 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-07-01 04:16:02 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-01 04:16:03 +00:00: (node:11454) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-01 04:16:03 +00:00: (node:11454) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-01 04:16:03 +00:00: 🚀 Server running at https://localhost:4001
+2025-07-01 04:16:03 +00:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-01 04:16:11 +00:00: [0mGET /visitorbook/api/package/package-list-web [32m200[0m 28.357 ms - 2569[0m
+2025-07-01 04:32:01 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 17.006 ms - -[0m
+2025-07-01 04:32:04 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=8 [32m200[0m 9.662 ms - 30866[0m
+2025-07-01 04:32:05 +00:00: [0mGET /uploads/blogs_images/image_1750926074318.jpg [32m200[0m 3.352 ms - 22434[0m
+2025-07-01 04:32:06 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/Discover-Visitor-Buk-Seamless-Check%E2%80%91Ins-Secure-Record [32m200[0m 4.112 ms - 30800[0m
+2025-07-01 04:32:07 +00:00: [0mGET /uploads/blogs_images/image_1750926074318.jpg [32m200[0m 0.672 ms - 22434[0m
+2025-07-01 04:32:07 +00:00: [0mGET /visitorbook/api/comments/get-approved-comments-list/7?page=1&limit=10 [32m200[0m 9.421 ms - 243[0m
+2025-07-01 05:34:16 +00:00: e>eeeeeeeeeee>>>>>>: TokenExpiredError: jwt expired
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:190:21
+    at getSecret (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/middlewares/auth.js:25:40
+    at Layer.handle [as handle_request] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/index.js:346:12) {
+  expiredAt: 2025-06-26T08:43:42.000Z
+}
+2025-07-01 05:34:16 +00:00: [0mGET /visitorbook/api/admin/get-companies-list?page=1&limit=10 [33m403[0m 20.674 ms - 161[0m
+2025-07-01 05:34:16 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 37.232 ms - -[0m
+2025-07-01 05:34:16 +00:00: e>eeeeeeeeeee>>>>>>: TokenExpiredError: jwt expired
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:190:21
+    at getSecret (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/middlewares/auth.js:25:40
+    at Layer.handle [as handle_request] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/index.js:346:12) {
+  expiredAt: 2025-06-26T08:43:42.000Z
+}
+2025-07-01 05:34:16 +00:00: [0mGET /visitorbook/api/admin/get-companies-list?page=1&limit=10 [33m403[0m 3.446 ms - 161[0m
+2025-07-01 05:34:16 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 5.052 ms - -[0m
+2025-07-01 05:34:16 +00:00: >>>>>>>>>>validation {
+  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEsInJvbGVJZCI6MSwiaWF0IjoxNzUwOTI2MjIyLCJleHAiOjE3NTEwMTI2MjJ9.XhSdCO1AHUxlyxT3hRiSeI8tFwQRx2qhn6akf4T7kq8'
+}
+2025-07-01 05:34:16 +00:00: undefined
+2025-07-01 05:34:16 +00:00: [0mPOST /visitorbook/api/admin/refreshtoken [31m500[0m 2.601 ms - 127[0m
+2025-07-01 05:34:17 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 6.014 ms - -[0m
+2025-07-01 05:35:21 +00:00: >>>>>>>>>>validation { email: 'superadmin@glocalview.com', password: 'Admin@123' }
+2025-07-01 05:35:21 +00:00: undefined
+2025-07-01 05:35:21 +00:00: [0mPOST /visitorbook/api/admin/signin [32m200[0m 140.591 ms - 469[0m
+2025-07-01 05:35:22 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 8.146 ms - -[0m
+2025-07-01 05:35:22 +00:00: [0mGET /visitorbook/api/admin/get-companies-list?page=1&limit=10 [32m200[0m 14.110 ms - 1979[0m
+2025-07-01 05:35:22 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 6.109 ms - -[0m
+2025-07-01 05:35:22 +00:00: [0mGET /visitorbook/api/admin/get-companies-list?page=1&limit=10 [36m304[0m 30.356 ms - -[0m
+2025-07-01 05:35:29 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=10 [32m200[0m 4.240 ms - 30867[0m
+2025-07-01 05:35:29 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=10 [36m304[0m 2.792 ms - -[0m
+2025-07-01 05:38:04 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 17.566 ms - -[0m
+2025-07-01 05:39:03 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 37.547 ms - -[0m
+2025-07-01 05:39:03 +00:00: [0mGET /visitorbook/api/package/org-type-list [36m304[0m 23.434 ms - -[0m
+2025-07-01 05:39:04 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 11.979 ms - -[0m
+2025-07-01 05:39:04 +00:00: [0mGET /visitorbook/api/package/org-type-list [36m304[0m 13.660 ms - -[0m
+2025-07-01 05:55:17 +00:00: [0mGET / [32m200[0m 0.991 ms - 1795[0m
+2025-07-01 06:05:58 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 17.451 ms - -[0m
+2025-07-01 09:06:36 +00:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-01 09:06:36 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-01 09:06:36 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-01 09:06:36 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-07-01 09:06:36 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-01 09:06:38 +00:00: (node:106745) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-01 09:06:38 +00:00: (node:106745) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-01 09:06:38 +00:00: 🚀 Server running at https://localhost:4001
+2025-07-01 09:06:38 +00:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-01 09:06:51 +00:00: [0mGET /visitorbook/api/package/package-list-web [32m200[0m 24.985 ms - 2569[0m
+2025-07-01 09:07:52 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 12.917 ms - -[0m
+2025-07-01 09:11:30 +00:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-01 09:11:30 +00:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-01 09:11:30 +00:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-01 09:11:30 +00:00: WARNING: No configurations found in configuration directory:/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/config
+2025-07-01 09:11:30 +00:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-01 09:11:31 +00:00: (node:108320) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-01 09:11:31 +00:00: (node:108320) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-01 09:11:31 +00:00: 🚀 Server running at https://localhost:4001
+2025-07-01 09:11:31 +00:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-01 09:44:03 +00:00: e>eeeeeeeeeee>>>>>>: TokenExpiredError: jwt expired
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:190:21
+    at getSecret (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/middlewares/auth.js:25:40
+    at Layer.handle [as handle_request] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/index.js:346:12) {
+  expiredAt: 2025-07-01T05:55:21.000Z
+}
+2025-07-01 09:44:03 +00:00: [0mPOST /visitorbook/api/blogs/add-blog [33m403[0m 7.997 ms - 161[0m
+2025-07-01 09:44:03 +00:00: >>>>>>>>>>validation {
+  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEsInJvbGVJZCI6MSwiaWF0IjoxNzUxMzQ4MTIxLCJleHAiOjE3NTE0MzQ1MjF9.Zdoo0IiM7hvwc10asHRvv7-HU7t6-lyE2mJrPgpS3b8'
+}
+2025-07-01 09:44:03 +00:00: undefined
+2025-07-01 09:44:03 +00:00: [0mPOST /visitorbook/api/admin/refreshtoken [32m200[0m 29.062 ms - 416[0m
+2025-07-01 09:44:04 +00:00: >>>>>>>>>>validation [Object: null prototype] {
+  title: 'What Is a Visitor Management System and Why Do You Need One?',
+  content: '<p><br><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">If you’ve landed on this article, chances are you’re looking for a better way to manage the constant flow of visitors to your organization. Whether it’s the daily hassle at the front desk or the overwhelming crowd during peak hours, handling visitors manually can be chaotic and inefficient.</span></strong></p><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">The good news? There’s a smart, practical, and foolproof solution: </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Visitor Buk by Glocalview</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">. A </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"><a href="https://visitorbuk.com/" style="color: rgb(255, 153, 0);">Visitor Management System</a></span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">. Let’s explore what it is, how it works, and why your organization needs one now more than ever.</span></strong></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 17pt;">Visitor Management Systems: An Introduction</span></strong></h2><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Essentially, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">digital systems</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> oversee all functions and interactions that an office performs concerning registering, tracking, and managing its visitors. This system replaces manual logbooks completed by hand and provides quick, safe, and orderly registration of visitors.</span></strong></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 17pt;">The Various Key Features of a Modern VMS</span></strong></h2><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Since there is a variety of </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">VMS platforms</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> available, at the core lie a few essential features such as </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">digital check-in</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">tracking</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">capturing an ID</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, etc. </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Visitor Buk by Glocalview</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> bundles these features with a clean, functional interface for the contemporary workplace.</span></strong></p><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">These are the offerings of Visitor Buk:</span></strong></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li dir="ltr" style="list-style-type: disc; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; font-size: 11pt;" aria-level="1"><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" role="presentation"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Unlimited Visitor Check-ins</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">: No cap, manage unlimited visitors.</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"><br><br></span></strong></p></li><li dir="ltr" style="list-style-type: disc; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; font-size: 11pt;" aria-level="1"><p dir="lt'... 62863 more characters,
+  image_alt_text: 'Visitor Management System',
+  image_alt_title: 'Visitor Management System',
+  canonical_tag: '',
+  slug: 'What-Is-a-Visitor-Management-System-and-Why-Do-You-Need-One',
+  description: 'Looking to streamline your front desk operations? Discover Visitor Buk by Glocalview—a modern visitor management system that enhances security, speeds up check-ins, and improves guest experiences across offices, schools, hospitals, and more.'
+}
+2025-07-01 09:44:04 +00:00: undefined
+2025-07-01 09:44:04 +00:00: [0mPOST /visitorbook/api/blogs/add-blog [32m200[0m 31.231 ms - 129[0m
+2025-07-01 09:44:05 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=10 [32m200[0m 12.849 ms - 105465[0m
+2025-07-01 09:44:13 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 11.934 ms - -[0m
+2025-07-01 09:44:18 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=8 [32m200[0m 5.481 ms - 105464[0m
+2025-07-01 09:44:20 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [32m200[0m 1.704 ms - 21062[0m
+2025-07-01 09:44:20 +00:00: [0mGET /uploads/blogs_images/image_1750926074318.jpg [32m200[0m 1.308 ms - 22434[0m
+2025-07-01 09:44:23 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/What-Is-a-Visitor-Management-System-and-Why-Do-You-Need-One [32m200[0m 3.773 ms - 74732[0m
+2025-07-01 09:44:24 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [32m200[0m 0.670 ms - 21062[0m
+2025-07-01 09:44:24 +00:00: [0mGET /visitorbook/api/comments/get-approved-comments-list/8?page=1&limit=10 [32m200[0m 5.630 ms - 243[0m
+2025-07-01 09:44:29 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 6.456 ms - -[0m
+2025-07-01 09:44:35 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 5.376 ms - -[0m
+2025-07-01 09:46:57 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/Discover-Visitor-Buk-Seamless-Check%E2%80%91Ins-Secure-Record [32m200[0m 7.604 ms - 30800[0m
+2025-07-01 09:46:58 +00:00: [0mGET /uploads/blogs_images/image_1750926074318.jpg [32m200[0m 0.580 ms - 22434[0m
+2025-07-01 09:47:01 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/What-Is-a-Visitor-Management-System-and-Why-Do-You-Need-One [36m304[0m 3.527 ms - -[0m
+2025-07-01 09:47:01 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [36m304[0m 0.665 ms - -[0m
+2025-07-01 09:47:10 +00:00: [0mPUT /visitorbook/api/blogs/edit-blog/8 [33m403[0m 0.480 ms - 160[0m
+2025-07-01 09:47:10 +00:00: >>>>>>>>>>validation {
+  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEsInJvbGVJZCI6MSwiaWF0IjoxNzUxMzYzMDQzLCJleHAiOjE3NTE0NDk0NDN9.O4qbcyYSlXgmTJMNtbP_rrFc4CzsCpPViisKPidlE7o'
+}
+2025-07-01 09:47:10 +00:00: undefined
+2025-07-01 09:47:10 +00:00: [0mPOST /visitorbook/api/admin/refreshtoken [32m200[0m 11.451 ms - 416[0m
+2025-07-01 09:47:11 +00:00: >>>>>>>>>>validation [Object: null prototype] {
+  title: 'What Is a Visitor Management System and Why Do You Need One?',
+  content: '<p><br><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">If you’ve landed on this article, chances are you’re looking for a better way to manage the constant flow of visitors to your organization. Whether it’s the daily hassle at the front desk or the overwhelming crowd during peak hours, handling visitors manually can be chaotic and inefficient.</span></strong></p><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">The good news? There’s a smart, practical, and foolproof solution: </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Visitor Buk by Glocalview</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">. A </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"><a href="https://visitorbuk.com/" style="color: rgb(255, 153, 0);">Visitor Management System</a></span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">. Let’s explore what it is, how it works, and why your organization needs one now more than ever.</span></strong></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 17pt;">Visitor Management Systems: An Introduction</span></strong></h2><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Essentially, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">digital systems</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> oversee all functions and interactions that an office performs concerning registering, tracking, and managing its visitors. This system replaces manual logbooks completed by hand and provides quick, safe, and orderly registration of visitors.</span></strong></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 17pt;">The Various Key Features of a Modern VMS</span></strong></h2><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Since there is a variety of </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">VMS platforms</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> available, at the core lie a few essential features such as </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">digital check-in</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">tracking</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">capturing an ID</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, etc. </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Visitor Buk by Glocalview</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> bundles these features with a clean, functional interface for the contemporary workplace.</span></strong></p><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">These are the offerings of Visitor Buk:</span></strong></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li dir="ltr" style="list-style-type: disc; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; font-size: 11pt;" aria-level="1"><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" role="presentation"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Unlimited Visitor Check-ins</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">: No cap, manage unlimited visitors.</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"><br><br></span></strong></p></li><li dir="ltr" style="list-style-type: disc; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; font-size: 11pt;" aria-level="1"><p dir="lt'... 62863 more characters,
+  image_alt_text: 'Visitor Management System',
+  image_alt_title: 'Visitor Management System',
+  canonical_tag: '',
+  slug: 'What-is-a-Visitor-Management-System-and-Why-Do-You-Need-One',
+  description: 'Looking to streamline your front desk operations? Discover Visitor Buk by Glocalview—a modern visitor management system that enhances security, speeds up check-ins, and improves guest experiences across offices, schools, hospitals, and more.',
+  image: 'image_1751363044294.jpg'
+}
+2025-07-01 09:47:11 +00:00: undefined
+2025-07-01 09:47:11 +00:00: [0mPUT /visitorbook/api/blogs/edit-blog/8 [32m200[0m 14.779 ms - 132[0m
+2025-07-01 09:47:11 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=10 [32m200[0m 7.625 ms - 105465[0m
+2025-07-01 09:47:16 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/What-Is-a-Visitor-Management-System-and-Why-Do-You-Need-One [32m200[0m 3.669 ms - 74732[0m
+2025-07-01 09:47:17 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [36m304[0m 0.429 ms - -[0m
+2025-07-01 09:47:18 +00:00: [0mGET /visitorbook/api/comments/get-approved-comments-list/8?page=1&limit=10 [36m304[0m 3.549 ms - -[0m
+2025-07-01 09:47:36 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/What-is-a-Visitor-Management-System-and-Why-Do-You-Need-One [32m200[0m 10.632 ms - 74732[0m
+2025-07-01 09:47:37 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [36m304[0m 0.381 ms - -[0m
+2025-07-01 09:47:42 +00:00: [0mPUT /visitorbook/api/blogs/edit-blog/8 [33m403[0m 0.375 ms - 160[0m
+2025-07-01 09:47:42 +00:00: >>>>>>>>>>validation {
+  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEsInJvbGVJZCI6MSwiaWF0IjoxNzUxMzYzMjMwLCJleHAiOjE3NTE0NDk2MzB9.yTgsUb0-EzY4_7RA_MCXCEm4JQRMPHtrQX4jt6e1z6o'
+}
+2025-07-01 09:47:42 +00:00: undefined
+2025-07-01 09:47:42 +00:00: [0mPOST /visitorbook/api/admin/refreshtoken [32m200[0m 15.482 ms - 416[0m
+2025-07-01 09:47:43 +00:00: >>>>>>>>>>validation [Object: null prototype] {
+  title: 'What Is a Visitor Management System and Why Do You Need One?',
+  content: '<p><br><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">If you’ve landed on this article, chances are you’re looking for a better way to manage the constant flow of visitors to your organization. Whether it’s the daily hassle at the front desk or the overwhelming crowd during peak hours, handling visitors manually can be chaotic and inefficient.</span></strong></p><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">The good news? There’s a smart, practical, and foolproof solution: </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Visitor Buk by Glocalview</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">. A </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"><a href="https://visitorbuk.com/" style="color: rgb(255, 153, 0);">Visitor Management System</a></span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">. Let’s explore what it is, how it works, and why your organization needs one now more than ever.</span></strong></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 17pt;">Visitor Management Systems: An Introduction</span></strong></h2><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Essentially, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">digital systems</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> oversee all functions and interactions that an office performs concerning registering, tracking, and managing its visitors. This system replaces manual logbooks completed by hand and provides quick, safe, and orderly registration of visitors.</span></strong></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 17pt;">The Various Key Features of a Modern VMS</span></strong></h2><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Since there is a variety of </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">VMS platforms</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> available, at the core lie a few essential features such as </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">digital check-in</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">tracking</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">capturing an ID</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, etc. </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Visitor Buk by Glocalview</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> bundles these features with a clean, functional interface for the contemporary workplace.</span></strong></p><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">These are the offerings of Visitor Buk:</span></strong></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li dir="ltr" style="list-style-type: disc; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; font-size: 11pt;" aria-level="1"><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" role="presentation"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Unlimited Visitor Check-ins</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">: No cap, manage unlimited visitors.</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"><br><br></span></strong></p></li><li dir="ltr" style="list-style-type: disc; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; font-size: 11pt;" aria-level="1"><p dir="lt'... 62863 more characters,
+  image_alt_text: 'Visitor Management System',
+  image_alt_title: 'Visitor Management System',
+  canonical_tag: 'https://visitorbuk.com/blogs/What-Is-a-Visitor-Management-System-and-Why-Do-You-Need-One',
+  slug: 'What-is-a-Visitor-Management-System-and-Why-Do-You-Need-One',
+  description: 'Looking to streamline your front desk operations? Discover Visitor Buk by Glocalview—a modern visitor management system that enhances security, speeds up check-ins, and improves guest experiences across offices, schools, hospitals, and more.',
+  image: 'image_1751363044294.jpg'
+}
+2025-07-01 09:47:43 +00:00: undefined
+2025-07-01 09:47:43 +00:00: [0mPUT /visitorbook/api/blogs/edit-blog/8 [32m200[0m 13.780 ms - 132[0m
+2025-07-01 09:47:43 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=10 [32m200[0m 6.410 ms - 105553[0m
+2025-07-01 09:47:50 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=8 [32m200[0m 4.702 ms - 105552[0m
+2025-07-01 09:47:52 +00:00: [0mGET /uploads/blogs_images/image_1750926074318.jpg [36m304[0m 0.648 ms - -[0m
+2025-07-01 09:47:52 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [36m304[0m 1.080 ms - -[0m
+2025-07-01 09:47:53 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/Discover-Visitor-Buk-Seamless-Check%E2%80%91Ins-Secure-Record [36m304[0m 2.511 ms - -[0m
+2025-07-01 09:47:53 +00:00: [0mGET /uploads/blogs_images/image_1750926074318.jpg [36m304[0m 0.709 ms - -[0m
+2025-07-01 09:47:54 +00:00: [0mGET /visitorbook/api/comments/get-approved-comments-list/7?page=1&limit=10 [32m200[0m 4.089 ms - 243[0m
+2025-07-01 09:48:02 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/Discover-Visitor-Buk-Seamless-Check%E2%80%91Ins-Secure-Record [36m304[0m 2.609 ms - -[0m
+2025-07-01 09:48:02 +00:00: [0mGET /uploads/blogs_images/image_1750926074318.jpg [36m304[0m 0.406 ms - -[0m
+2025-07-01 09:57:09 +00:00: [0mGET /visitorbook/api/package/package-list-web [32m200[0m 16.229 ms - 2569[0m
+2025-07-01 10:33:20 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 10.376 ms - -[0m
+2025-07-01 10:33:22 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=8 [32m200[0m 7.521 ms - 105552[0m
+2025-07-01 10:33:24 +00:00: [0mGET /uploads/blogs_images/image_1750926074318.jpg [36m304[0m 0.310 ms - -[0m
+2025-07-01 10:33:24 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [32m200[0m 1.753 ms - 21062[0m
+2025-07-01 10:33:25 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/What-is-a-Visitor-Management-System-and-Why-Do-You-Need-One [32m200[0m 3.130 ms - 74820[0m
+2025-07-01 10:33:26 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [32m200[0m 0.759 ms - 21062[0m
+2025-07-01 10:33:26 +00:00: [0mGET /visitorbook/api/comments/get-approved-comments-list/8?page=1&limit=10 [32m200[0m 2.136 ms - 243[0m
+2025-07-01 10:39:12 +00:00: [0mGET /visitorbook/api/package/package-list-web [32m200[0m 10.402 ms - 2569[0m
+2025-07-01 10:42:54 +00:00: [0mGET /visitorbook/api/package/org-type-list [32m200[0m 6.321 ms - 1692[0m
+2025-07-01 10:42:54 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 35.295 ms - -[0m
+2025-07-01 10:42:54 +00:00: [0mGET /visitorbook/api/package/org-type-list [36m304[0m 3.988 ms - -[0m
+2025-07-01 10:42:54 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 4.198 ms - -[0m
+2025-07-01 10:43:29 +00:00: >>>>>>>>>>validation [Object: null prototype] {
+  company_name: 'jkljkl',
+  company_address: 'jklhjkhbk',
+  company_admin_email: 'umesh.kumar@glocalview.com',
+  company_admin_password: '195847981',
+  gst_number: '354698',
+  organization_type: '1',
+  package_id: '2'
+}
+2025-07-01 10:43:29 +00:00: undefined
+2025-07-01 10:43:29 +00:00: NEW COMPANY>>>>>>>>>>>>>>>>>>>>>>>>>> Companies {
+  dataValues: {
+    uuid: '2e662861-ead7-4ddb-bebb-fac7ceb4d10c',
+    id: 35,
+    name: 'jkljkl',
+    address: 'jklhjkhbk',
+    picture: 'company_logo_1751366609337.jpg',
+    code: 'vtQPMe',
+    status: 1,
+    companies_sign_up_details_id: 13,
+    payment_status: 0,
+    package_id: '2',
+    duration: 12,
+    updated_at: 2025-07-01T10:43:29.458Z,
+    created_at: 2025-07-01T10:43:29.458Z
+  },
+  _previousDataValues: {
+    name: 'jkljkl',
+    address: 'jklhjkhbk',
+    picture: 'company_logo_1751366609337.jpg',
+    code: 'vtQPMe',
+    status: 1,
+    companies_sign_up_details_id: 13,
+    payment_status: 0,
+    package_id: '2',
+    duration: 12,
+    id: 35,
+    uuid: '2e662861-ead7-4ddb-bebb-fac7ceb4d10c',
+    comment: undefined,
+    created_at: 2025-07-01T10:43:29.458Z,
+    updated_at: 2025-07-01T10:43:29.458Z
+  },
+  uniqno: 1,
+  _changed: Set(0) {},
+  _options: {
+    isNewRecord: true,
+    _schema: null,
+    _schemaDelimiter: '',
+    attributes: undefined,
+    include: undefined,
+    raw: undefined,
+    silent: undefined
+  },
+  isNewRecord: false
+}
+2025-07-01 10:43:29 +00:00: [0mPOST /visitorbook/api/package/company-sign-up [32m201[0m 196.219 ms - 465[0m
+2025-07-01 10:43:30 +00:00: [0mGET /visitorbook/api/package/package-details/2 [32m200[0m 3.827 ms - 936[0m
+2025-07-01 10:43:30 +00:00: [0mGET /visitorbook/api/package/get-company-details/35 [32m200[0m 5.871 ms - 606[0m
+2025-07-01 10:43:30 +00:00: [0mGET /visitorbook/api/package/package-details/2 [36m304[0m 12.576 ms - -[0m
+2025-07-01 10:43:30 +00:00: [0mGET /visitorbook/api/package/get-company-details/35 [36m304[0m 8.525 ms - -[0m
+2025-07-01 10:43:42 +00:00: razorpay rzp_live_LfL256kGXh6CLC 2tjSbicg9V6WU8kw5MyF3k7g
+2025-07-01 10:43:45 +00:00: HElllllllllllllllllllllllllllL!!!!!!!!!!!!!!!
+2025-07-01 10:43:47 +00:00: HEER!!!!!!!!!1
+2025-07-01 10:43:47 +00:00: [0mPOST /visitorbook/api/payment/razorpay-payment [32m200[0m 5026.343 ms - 315[0m
+2025-07-01 10:44:27 +00:00: [0mGET /visitorbook/api/package/package-details/2 [36m304[0m 17.706 ms - -[0m
+2025-07-01 10:44:27 +00:00: [0mGET /visitorbook/api/package/get-company-details/35 [36m304[0m 23.333 ms - -[0m
+2025-07-01 10:44:28 +00:00: [0mGET /visitorbook/api/package/package-details/2 [36m304[0m 3.732 ms - -[0m
+2025-07-01 10:44:28 +00:00: [0mGET /visitorbook/api/package/get-company-details/35 [36m304[0m 5.189 ms - -[0m
+2025-07-01 10:46:46 +00:00: >>>>>>>>>>validation {
+  blog_id: '8',
+  name: 'Deepak Tiwari',
+  email: 'molem84037@pariag.com',
+  comment: 'Nice !'
+}
+2025-07-01 10:46:46 +00:00: undefined
+2025-07-01 10:46:46 +00:00: [0mPOST /visitorbook/api/comments/add-comment [32m200[0m 8.045 ms - 346[0m
+2025-07-01 10:46:53 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/What-is-a-Visitor-Management-System-and-Why-Do-You-Need-One [32m200[0m 8.296 ms - 74820[0m
+2025-07-01 10:46:54 +00:00: [0mGET /visitorbook/api/comments/get-approved-comments-list/8?page=1&limit=10 [36m304[0m 4.143 ms - -[0m
+2025-07-01 10:46:55 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [36m304[0m 1.226 ms - -[0m
+2025-07-01 10:47:04 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/What-is-a-Visitor-Management-System-and-Why-Do-You-Need-One [32m200[0m 2.968 ms - 74820[0m
+2025-07-01 10:47:05 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [36m304[0m 0.309 ms - -[0m
+2025-07-01 10:47:05 +00:00: [0mGET /visitorbook/api/comments/get-approved-comments-list/8?page=1&limit=10 [36m304[0m 2.082 ms - -[0m
+2025-07-01 10:47:22 +00:00: >>>>>>>>>>validation {
+  blog_id: '8',
+  name: 'Deepak Tiwari',
+  email: 'user@gmail.com',
+  comment: 'Nice'
+}
+2025-07-01 10:47:22 +00:00: undefined
+2025-07-01 10:47:22 +00:00: [0mPOST /visitorbook/api/comments/add-comment [32m200[0m 7.079 ms - 337[0m
+2025-07-01 11:00:11 +00:00: [0mGET / [32m200[0m 1.097 ms - 1795[0m
+2025-07-01 15:49:06 +00:00: [0mGET / [32m200[0m 2.081 ms - 1795[0m
+2025-07-01 18:58:37 +00:00: [0mGET / [32m200[0m 1.408 ms - 1795[0m
+2025-07-01 19:09:38 +00:00: [0mGET /visitorbook/api/package/package-list-web [32m200[0m 14.895 ms - 2569[0m
+2025-07-02 00:51:51 +00:00: [0mGET / [32m200[0m 1.350 ms - 1795[0m
+2025-07-02 03:08:19 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 21.175 ms - -[0m
+2025-07-02 03:08:26 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 4.809 ms - -[0m
+2025-07-02 03:26:42 +00:00: [0mGET / [32m200[0m 1.154 ms - 1795[0m
+2025-07-02 03:30:30 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 17.983 ms - -[0m
+2025-07-02 07:50:39 +00:00: [0mGET / [32m200[0m 1.017 ms - 1795[0m
+2025-07-02 07:58:01 +00:00: [0mGET / [32m200[0m 0.653 ms - 1795[0m
+2025-07-02 09:53:37 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 12.233 ms - -[0m
+2025-07-02 10:07:51 +00:00: [0mGET /visitorbook/api/package/package-list-web [32m200[0m 11.762 ms - 2569[0m
+2025-07-02 10:13:12 +00:00: [0mGET /visitorbook/api/package/package-list-web [32m200[0m 35.431 ms - 2569[0m
+2025-07-02 10:13:14 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=8 [32m200[0m 5.683 ms - 105552[0m
+2025-07-02 10:13:16 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [32m200[0m 2.369 ms - 21062[0m
+2025-07-02 10:13:16 +00:00: [0mGET /uploads/blogs_images/image_1750926074318.jpg [32m200[0m 1.002 ms - 22434[0m
+2025-07-02 10:13:17 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/What-is-a-Visitor-Management-System-and-Why-Do-You-Need-One [32m200[0m 3.032 ms - 74820[0m
+2025-07-02 10:13:18 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [32m200[0m 0.583 ms - 21062[0m
+2025-07-02 10:13:18 +00:00: [0mGET /visitorbook/api/comments/get-approved-comments-list/8?page=1&limit=10 [32m200[0m 3.868 ms - 243[0m
+2025-07-02 10:13:44 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 10.477 ms - -[0m
+2025-07-02 10:13:51 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 4.606 ms - -[0m
+2025-07-02 10:13:51 +00:00: e>eeeeeeeeeee>>>>>>: TokenExpiredError: jwt expired
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:190:21
+    at getSecret (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/middlewares/auth.js:25:40
+    at Layer.handle [as handle_request] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/index.js:346:12) {
+  expiredAt: 2025-07-01T10:07:42.000Z
+}
+2025-07-02 10:13:51 +00:00: [0mGET /visitorbook/api/admin/get-companies-list?page=1&limit=10 [33m403[0m 5.258 ms - 161[0m
+2025-07-02 10:13:51 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 4.278 ms - -[0m
+2025-07-02 10:13:51 +00:00: e>eeeeeeeeeee>>>>>>: TokenExpiredError: jwt expired
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:190:21
+    at getSecret (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:97:14)
+    at module.exports [as verify] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/jsonwebtoken/verify.js:101:10)
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/src/middlewares/auth.js:25:40
+    at Layer.handle [as handle_request] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/visitorbuk/public_html/apis.visitorbuk.com/visitorbook_backend/node_modules/express/lib/router/index.js:346:12) {
+  expiredAt: 2025-07-01T10:07:42.000Z
+}
+2025-07-02 10:13:51 +00:00: [0mGET /visitorbook/api/admin/get-companies-list?page=1&limit=10 [33m403[0m 1.722 ms - 161[0m
+2025-07-02 10:13:52 +00:00: >>>>>>>>>>validation {
+  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEsInJvbGVJZCI6MSwiaWF0IjoxNzUxMzYzMjYyLCJleHAiOjE3NTE0NDk2NjJ9.NeIj1hgVZCvlgGpEwCnCcWLZ1XvbsnoESXd25mq1Mcc'
+}
+2025-07-02 10:13:52 +00:00: undefined
+2025-07-02 10:13:52 +00:00: [0mPOST /visitorbook/api/admin/refreshtoken [31m500[0m 1.802 ms - 127[0m
+2025-07-02 10:13:53 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 6.610 ms - -[0m
+2025-07-02 10:14:05 +00:00: >>>>>>>>>>validation { email: 'superadmin@glocalview.com', password: 'Admin@123' }
+2025-07-02 10:14:05 +00:00: undefined
+2025-07-02 10:14:06 +00:00: [0mPOST /visitorbook/api/admin/signin [32m200[0m 89.252 ms - 469[0m
+2025-07-02 10:14:06 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 9.091 ms - -[0m
+2025-07-02 10:14:06 +00:00: [0mGET /visitorbook/api/admin/get-companies-list?page=1&limit=10 [32m200[0m 8.309 ms - 2009[0m
+2025-07-02 10:14:07 +00:00: [0mGET /visitorbook/api/package/package-list-web [36m304[0m 4.249 ms - -[0m
+2025-07-02 10:14:07 +00:00: [0mGET /visitorbook/api/admin/get-companies-list?page=1&limit=10 [36m304[0m 10.806 ms - -[0m
+2025-07-02 10:14:21 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=10 [36m304[0m 9.199 ms - -[0m
+2025-07-02 10:14:21 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=10 [36m304[0m 5.099 ms - -[0m
+2025-07-02 10:14:24 +00:00: [0mGET /visitorbook/api/blogs/get-blog-details/What-is-a-Visitor-Management-System-and-Why-Do-You-Need-One [32m200[0m 2.925 ms - 74820[0m
+2025-07-02 10:14:26 +00:00: [0mGET /uploads/blogs_images/image_1751363044294.jpg [32m200[0m 1.218 ms - 21062[0m
+2025-07-02 10:14:30 +00:00: [0mPUT /visitorbook/api/blogs/edit-blog/8 [33m403[0m 0.247 ms - 160[0m
+2025-07-02 10:14:31 +00:00: >>>>>>>>>>validation {
+  refreshToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEsInJvbGVJZCI6MSwiaWF0IjoxNzUxNDUxMjQ2LCJleHAiOjE3NTE1Mzc2NDZ9.STt-SqGSFJWhd_z7MuICJPXG9JBdszYdHh676f8WGQk'
+}
+2025-07-02 10:14:31 +00:00: undefined
+2025-07-02 10:14:31 +00:00: [0mPOST /visitorbook/api/admin/refreshtoken [32m200[0m 11.380 ms - 416[0m
+2025-07-02 10:14:31 +00:00: >>>>>>>>>>validation [Object: null prototype] {
+  title: 'What is a Visitor Management System and Why Do You Need One?',
+  content: '<p><br><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">If you’ve landed on this article, chances are you’re looking for a better way to manage the constant flow of visitors to your organization. Whether it’s the daily hassle at the front desk or the overwhelming crowd during peak hours, handling visitors manually can be chaotic and inefficient.</span></strong></p><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">The good news? There’s a smart, practical, and foolproof solution: </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Visitor Buk by Glocalview</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">. A </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"><a href="https://visitorbuk.com/" style="color: rgb(255, 153, 0);">Visitor Management System</a></span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">. Let’s explore what it is, how it works, and why your organization needs one now more than ever.</span></strong></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 17pt;">Visitor Management Systems: An Introduction</span></strong></h2><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Essentially, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">digital systems</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> oversee all functions and interactions that an office performs concerning registering, tracking, and managing its visitors. This system replaces manual logbooks completed by hand and provides quick, safe, and orderly registration of visitors.</span></strong></p><h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 17pt;">The Various Key Features of a Modern VMS</span></strong></h2><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Since there is a variety of </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">VMS platforms</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> available, at the core lie a few essential features such as </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">digital check-in</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">tracking</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">capturing an ID</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">, etc. </span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Visitor Buk by Glocalview</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"> bundles these features with a clean, functional interface for the contemporary workplace.</span></strong></p><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">These are the offerings of Visitor Buk:</span></strong></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li dir="ltr" style="list-style-type: disc; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; font-size: 11pt;" aria-level="1"><p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;" role="presentation"><strong style="font-weight:normal;" id="docs-internal-guid-fcb893ca-7fff-7354-4b3c-5d5e6e31135c"><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">Unlimited Visitor Check-ins</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;">: No cap, manage unlimited visitors.</span><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 11pt;"><br><br></span></strong></p></li><li dir="ltr" style="list-style-type: disc; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre; font-size: 11pt;" aria-level="1"><p dir="lt'... 62863 more characters,
+  image_alt_text: 'Visitor Management System',
+  image_alt_title: 'Visitor Management System',
+  canonical_tag: 'https://visitorbuk.com/blogs/What-Is-a-Visitor-Management-System-and-Why-Do-You-Need-One',
+  slug: 'What-is-a-Visitor-Management-System-and-Why-Do-You-Need-One',
+  description: 'Looking to streamline your front desk operations? Discover Visitor Buk by Glocalview—a modern visitor management system that enhances security, speeds up check-ins, and improves guest experiences across offices, schools, hospitals, and more.',
+  image: 'image_1751363044294.jpg'
+}
+2025-07-02 10:14:31 +00:00: undefined
+2025-07-02 10:14:31 +00:00: [0mPUT /visitorbook/api/blogs/edit-blog/8 [32m200[0m 18.688 ms - 132[0m
+2025-07-02 10:14:32 +00:00: [0mGET /visitorbook/api/blogs/get-blogs-list?page=1&limit=10 [32m200[0m 7.152 ms - 105553[0m
+2025-07-02 10:37:01 +00:00: [0mGET /visitorbook/api/package/package-list-web [32m200[0m 14.762 ms - 2569[0m
+2025-07-03 05:09:51 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 05:09:53 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 05:09:53 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 05:09:53 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 05:09:53 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 05:09:56 -04:00: (node:58273) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 05:09:56 -04:00: (node:58273) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 05:09:56 -04:00: 🚀 Server running at https://localhost:5005
+2025-07-03 05:09:56 -04:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-03 05:11:45 -04:00: [0mGET / [32m200[0m 5.002 ms - 1795[0m
+2025-07-03 05:14:55 -04:00: [0mGET / [32m200[0m 5.055 ms - 1795[0m
+2025-07-03 05:18:52 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 05:18:54 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 05:18:54 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 05:18:54 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 05:18:54 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 05:18:58 -04:00: (node:58403) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 05:18:58 -04:00: (node:58403) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 05:18:58 -04:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-03 05:18:58 -04:00: 🚀 Server running at https://localhost:5005
+2025-07-03 05:19:09 -04:00: [0mGET /api [32m200[0m 6.002 ms - 1795[0m
+2025-07-03 05:35:48 -04:00: [0mGET /api [36m304[0m 2.234 ms - -[0m
+2025-07-03 05:35:57 -04:00: [0mGET /api [36m304[0m 0.975 ms - -[0m
+2025-07-03 05:40:09 -04:00: [0mGET / [32m200[0m 1.092 ms - 1795[0m
+2025-07-03 05:44:20 -04:00: [0mGET /api [36m304[0m 0.763 ms - -[0m
+2025-07-03 05:45:03 -04:00: [0mGET /api [36m304[0m 0.692 ms - -[0m
+2025-07-03 05:45:13 -04:00: [0mGET /api/ [32m200[0m 1.107 ms - 1795[0m
+2025-07-03 05:45:14 -04:00: [0mGET /api/logo.png [32m200[0m 0.899 ms - 1795[0m
+2025-07-03 07:33:29 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 07:33:36 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 07:33:37 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 07:33:37 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 07:33:37 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 07:33:37 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 07:33:42 -04:00: (node:59775) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 07:33:42 -04:00: (node:59775) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 07:33:42 -04:00: 🚀 Server running at https://localhost:5005
+2025-07-03 07:33:42 -04:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-03 07:33:58 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 07:34:04 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 07:34:06 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 07:34:06 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 07:34:06 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 07:34:06 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 07:34:10 -04:00: (node:59817) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 07:34:10 -04:00: (node:59817) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 07:34:10 -04:00: 🚀 Server running at https://localhost:5005
+2025-07-03 07:34:10 -04:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-03 07:34:14 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 07:34:21 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 07:34:22 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 07:34:22 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 07:34:22 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 07:34:22 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 07:34:27 -04:00: (node:59842) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 07:34:27 -04:00: (node:59842) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 07:34:27 -04:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-03 07:34:27 -04:00: 🚀 Server running at https://localhost:5005
+2025-07-03 07:34:45 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 07:34:47 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 07:34:47 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 07:34:47 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 07:34:47 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 07:34:52 -04:00: (node:59880) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 07:34:52 -04:00: (node:59880) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 07:34:52 -04:00: 🚀 Server running at https://localhost:5005
+2025-07-03 07:34:52 -04:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-03 07:43:46 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [31m500[0m 141.689 ms - 159[0m
+2025-07-03 07:44:19 -04:00: [0mGET /api [32m200[0m 8.750 ms - 1795[0m
+2025-07-03 07:44:28 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [31m500[0m 18.366 ms - 159[0m
+2025-07-03 07:44:31 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [31m500[0m 7.688 ms - 159[0m
+2025-07-03 07:44:59 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [31m500[0m 16.641 ms - 159[0m
+2025-07-03 07:49:43 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [31m500[0m 16.822 ms - 159[0m
+2025-07-03 07:49:56 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [31m500[0m 11.991 ms - 159[0m
+2025-07-03 07:51:30 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [31m500[0m 52.772 ms - 159[0m
+2025-07-03 07:51:38 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [31m500[0m 5.733 ms - 159[0m
+2025-07-03 07:53:10 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [31m500[0m 18.879 ms - 159[0m
+2025-07-03 07:53:11 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [31m500[0m 12.591 ms - 159[0m
+2025-07-03 07:55:54 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [31m500[0m 11.722 ms - 159[0m
+2025-07-03 07:58:13 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 07:58:15 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 07:58:15 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 07:58:15 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 07:58:15 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 07:58:19 -04:00: (node:60935) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 07:58:19 -04:00: (node:60935) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 07:58:19 -04:00: 🚀 Server running at https://localhost:5005
+2025-07-03 07:58:19 -04:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-03 07:58:27 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 07:58:29 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 07:58:29 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 07:58:29 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 07:58:29 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 07:58:33 -04:00: (node:60948) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 07:58:34 -04:00: (node:60948) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 07:58:34 -04:00: 🚀 Server running at https://localhost:5005
+2025-07-03 07:58:34 -04:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-03 07:58:37 -04:00: >>>>>>>>>>>>>>>>>>process.env.ENVIRONMENT: development
+2025-07-03 07:58:38 -04:00: WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+2025-07-03 07:58:38 -04:00: WARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode
+2025-07-03 07:58:38 -04:00: WARNING: No configurations found in configuration directory:/var/www/html/visitorbook.qa/visitorbook_backend/config
+2025-07-03 07:58:38 -04:00: WARNING: To disable this warning set SUPPRESS_NO_CONFIG_WARNING in the environment.
+2025-07-03 07:58:43 -04:00: (node:60961) Warning: Accessing non-existent property 'appSettingsSchema' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-03 07:58:43 -04:00: (node:60961) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+2025-07-03 07:58:43 -04:00: MYSQL --> Connection to DB has been established successfully.
+2025-07-03 07:58:43 -04:00: 🚀 Server running at https://localhost:5005
+2025-07-03 07:58:51 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [32m200[0m 40.225 ms - 2569[0m
+2025-07-03 07:58:53 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [32m200[0m 11.025 ms - 2569[0m
+2025-07-03 07:59:00 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [36m304[0m 11.784 ms - -[0m
+2025-07-03 08:02:20 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [32m200[0m 26.232 ms - 2569[0m
+2025-07-03 08:02:52 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [36m304[0m 21.690 ms - -[0m
+2025-07-03 08:03:16 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [36m304[0m 23.443 ms - -[0m
+2025-07-03 08:06:52 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [32m200[0m 19.534 ms - 2569[0m
+2025-07-03 08:10:50 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [36m304[0m 14.921 ms - -[0m
+2025-07-03 08:17:30 -04:00: [0mGET /api [32m200[0m 6.710 ms - 1795[0m
+2025-07-03 08:17:30 -04:00: [0mGET /logo.png [32m200[0m 1.349 ms - 1795[0m
+2025-07-03 08:17:30 -04:00: [0mGET /favicon.ico [32m200[0m 1.770 ms - 1795[0m
+2025-07-03 08:19:29 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [32m200[0m 70.005 ms - 2569[0m
+2025-07-03 08:27:29 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [36m304[0m 19.578 ms - -[0m
+2025-07-03 08:27:39 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [32m200[0m 11.273 ms - 2569[0m
+2025-07-03 08:30:38 -04:00: [0mGET /api/visitorbook/api/package/package-list-web [36m304[0m 12.713 ms - -[0m
+2025-07-03 08:31:23 -04:00: [0mGET /api/ [32m200[0m 1.174 ms - 1795[0m
