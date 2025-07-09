@@ -1,0 +1,88 @@
+{
+  "apps": [{
+      "name": "Visitor Book APIs",
+      "script": "src/app.js",
+      "args": "['--debug=7000']",
+      "log_date_format": "YYYY-MM-DD HH:mm:ss Z",
+      "watch": true,
+      "watch_options": {
+          "usePolling": true,
+          "alwaysStat": true,
+          "useFsEvents": false
+      },
+      "ignore_watch": [
+          "log",
+          "logs",
+          "test",
+          "node_modules",
+          ".git",
+          "temp",
+          "extracted",
+          "uploads",
+          "public"
+      ],
+      "instances": 1,
+
+      "exec_mode": "cluster",
+      "log_file": "log/pm2_log.log",
+      "out_file": "log/pm2_out.log",
+      "error_file": "log/pm2_err.log",
+
+      "env_development": {
+        "NODE_ENV": "development",
+        "APP_NAME": "visitorbook",
+        "PORT": 5005,
+        "DB_CONNECTION": "mysql",
+        "DB_HOST": "localhost",
+        "DB_USERNAME": "visitorbuk_user",
+        "DB_PORT": "3306",
+        "DB_DIALECT": "mysql",
+        "DB_PASSWORD": "L0Z&!$exw^yd",
+        "DB_DATABASE": "visitorbuk_prod",
+        "DB_SERVERCA_PATH":"./cert/server-ca.pem",
+        "DB_CLIENTCERT_PATH":"./cert/client-cert.pem",
+        "DB_CLIENTKEY_PATH":"./cert/client-key.pem",
+        "ARCHIVE_DB_CONNECTION": "mysql",
+        "ARCHIVE_DB_HOST": "localhost",
+        "ARCHIVE_DB_USERNAME": "root",
+        "ARCHIVE_DB_PORT": "3306",
+        "ARCHIVE_DB_DIALECT": "mysql",
+        "ARCHIVE_DB_PASSWORD": "password",
+        "ARCHIVE_DB_DATABASE": "archiveauthemailpassword",
+        "ARCHIVE_DB_SERVERCA_PATH":"./cert/server-ca.pem",
+        "ARCHIVE_DB_CLIENTCERT_PATH":"./cert/client-cert.pem",
+        "ARCHIVE_DB_CLIENTKEY_PATH":"./cert/client-key.pem",
+        "ENVIRONMENT": "development",
+        "JWT_SECRET": "qwertasdfgzxcvb!@#1234567890)(*&^%$#@!",
+        "SUPER_ADMIN_SECRET": "1qazxswedgrt5678909876rgft1wedcfe6^%$&*()wedr@#!!!!%^",
+
+        "GOOGLE_CLIENT_ID": "",
+        "GOOGLE_CLIENT_SECRET": "",
+        "APIURL": "http://apis.visitorbuk.com/visitorbuk/api/",
+        "SMTP_HOST": "smtp.eu.mailgun.org",
+        "SMTP_PORT": 587,
+        "SMTP_SECURE": false,
+        "SMTP_USERID": "postmaster@qa.glocalhub.no",
+        "SMTP_PASSWORD": "P@ssw0rd98989#mailgun1",
+        "SMTP_FROM":  "developers@glocalview.com",
+        "SENDGRID_FROM": "noreply@glocalview.com",
+        "SENDGRID_API_KEY" :"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",
+        "PASSWORD_SALT":"",
+        "SMTP_APIKEY": "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",
+        "STRIPE_ENDPOINT_KEY" : "whsec_VyBOh8OEet76r0lm21oYCYnhgoSwmWrc",
+        "STRIPE_WEBHOOK_SECRET_KEY":"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",
+        "RAZORPAY_KEY_ID":"rzp_live_LfL256kGXh6CLC",
+        "RAZORPAY_KEY_SECRET":"2tjSbicg9V6WU8kw5MyF3k7g",
+        "RAZORPAY_WEBHOOK_SECRET":"Pr@buddh123",
+        "LOGO_URL": "https://apis.visitorbuk.com/uploads/companies_logo",
+        "BASE_URL": "https://apis.visitorbuk.com/uploads/visitors_images",
+        "CSV_URL": "https://apis.visitorbuk.com/public/ImportedEmpCSVs",
+    },
+
+      "post_update": [
+          "echo App has been updated, running npm install...",
+          "npm install",
+          "echo App is being restarted now"
+      ]
+  }]
+}
