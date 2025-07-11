@@ -104,7 +104,7 @@ app.get("*", (req, res) => {
 
 // Start HTTPS server
 https.createServer(credentials, app).listen(PORT, () => {
-    console.log(`🚀 Server running at https://${HOST}:${PORT}`);
+    console.log(`🚀 Server running at http://${HOST}:${PORT}`);
 });
 
 module.exports = app;
